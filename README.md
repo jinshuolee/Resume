@@ -7,3 +7,6 @@
 ![image alt](https://github.com/jinshuolee/Sun-tracker/blob/0847ee04dc62d6599026741806a77180151317ef/sun_tracker.jpg)
 
 ## 四足仿生機械狗
+![image alt](https://github.com/jinshuolee/CCU-dog/blob/main/532825.jpg?raw=true)
+影片連結
+https://www.youtube.com/watch?v=DFCvpVmPlCk
