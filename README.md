@@ -5,6 +5,9 @@
 * 2023~2025  碩士論文研究
   —論文研究題目“ 開發即時遠端遙控機械手臂之六自由度操縱裝置 ”
 
+2025~2025  Intelligent Asia 2025 展覽
+	—產學合作專區參展發表
+<img width="455" height="85" alt="image" src="https://github.com/user-attachments/assets/4ce1eccd-c204-4a84-a223-238c33c77195" />
 
 
 
