@@ -13,8 +13,11 @@
 * 機電整合
 * 人機互動
 
-# 軟體
-Inventor、 Solidworks 、Unity、Ansys、 C#、C/C++、Python、Matlab、 Arduino 、LabVIEW
+# 熟悉軟體
+* 程式設計：C、C++、Matlab、Python、Arduino
+* CAD設計：Inventor、Solidworks
+* 辦公室應用：Excel、PowerPoint、Word
+* 其它軟體：Unity、Ansys
 
 # 專案作品
 
