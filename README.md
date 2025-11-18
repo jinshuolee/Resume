@@ -23,13 +23,14 @@
 
 ## 開發即時遠端遙控機械手臂之六自由度操縱裝置
 * 六自由度操縱桿
+  
 ![image alt](https://github.com/jinshuolee/6-DOF-manipulation-device/blob/main/6-DOF_manipulation_device.jpg?raw=true)
 
 * 使用者介面
+  
 ![image alt](https://github.com/jinshuolee/6-DOF-manipulation-device/blob/main/User_interface.png?raw=true)
 
-* 影片連結
-* https://www.youtube.com/watch?v=NEGK4G0Klj8
+* 影片連結:https://www.youtube.com/watch?v=NEGK4G0Klj8
 
 ![image alt](https://github.com/jinshuolee/6-DOF-manipulation-device/blob/main/Demo.png?raw=true)
 
