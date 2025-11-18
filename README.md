@@ -42,6 +42,12 @@
 影片連結
 https://www.youtube.com/watch?v=DFCvpVmPlCk
 
+## 使用Joystick控制VR staubli
+![image alt](https://github.com/jinshuolee/Joystick-control-VR-Staubli/blob/main/Joystick_control_VR_staubli.jpg?raw=true)
+
+## 力回饋手套虛擬實境應用
+![image alt](https://github.com/jinshuolee/Haptic-gloves/blob/main/Haptic_gloves.jpg?raw=true)
+
 ## 透過類比電路製作攜帶式雙聲道喇叭
 ![image alt](https://github.com/jinshuolee/Speaker-design/blob/main/Speaker.jpg?raw=true)
 
